@@ -4,14 +4,22 @@
     box-sizing: border-box;
 }
 
+
 .mainBox {
+
+    background: url(../images/bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
     column-gap: 20px;
-    background: rgb(239, 215, 215);
+    /* background: rgb(239, 215, 215); */
 }
 
 .countItem {
