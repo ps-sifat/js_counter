@@ -31,8 +31,10 @@
 
 span {
     font-size: 30px;
+    color: navy;
 }
 
 p {
     font-size: 20px;
+    color: rgb(243, 255, 22);
 }
